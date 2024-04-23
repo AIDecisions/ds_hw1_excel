@@ -1,2 +1,2 @@
 # ds_hw1_excel
-VBA-challenge
+Homework for Module 1 - Excel
